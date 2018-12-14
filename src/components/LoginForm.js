@@ -7,8 +7,6 @@ class LoginForm extends Component {
   render() {
     return (
       <Card>
-        <CardSection></CardSection>
-        <CardSection></CardSection>
         <CardSection>
           <Button>
             Log In
